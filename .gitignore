@@ -1,0 +1,11 @@
+.DS_Store
+**/.DS_Store
+_archive/
+*.pdf
+
+# build output
+.build/
+build/
+*.app
+
+.claude/settings.local.json
