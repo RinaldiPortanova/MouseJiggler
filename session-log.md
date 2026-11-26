@@ -10,3 +10,4 @@ Public repo: no personal details here (see `rules.md`).
 - **Bug found by testing and fixed:** watching event types 32+ made the app take its own moves for the user (macOS answers those types with the "any input" counter).
 - **Pauses on keyboard, clicks, scrolls and gestures too**, never runs while the screen is locked. Side effect: while it runs, the screen never dims or locks by itself.
 - **UI switched to English and the repo prepared for publication:** README, MIT license, notes rewritten without personal details or references to specific apps. Start at login was declined (the user opens the app by hand).
+- **Published:** the private repo was deleted and recreated with a single clean commit (so no earlier draft survives on GitHub), then made public under the MIT license. Checked online and locally before publishing: the size of the move does not matter, only that an input event happens; the idle counter that chat apps read is reset by every glide.

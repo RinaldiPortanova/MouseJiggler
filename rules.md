@@ -1,6 +1,6 @@
 # MouseJiggler — project rules
 
-> **This repository is PUBLIC** (or about to be). Never write personal details in any file or
+> **This repository is PUBLIC** (since 2026-11-26, https://github.com/RinaldiPortanova/MouseJiggler). Never write personal details in any file or
 > commit message: no names, no employer, no workspace paths, no mention of other private repos, no
 > names of specific chat or work apps (describe it as a generic mouse jiggler).
 > Write "the user". Session-log entries follow the same rule.
